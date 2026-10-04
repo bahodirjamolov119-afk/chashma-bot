@@ -1,0 +1,14 @@
+2026-10-04 14:22:50,743 - INFO - Start polling
+2026-10-04 14:22:51,350 - INFO - Run polling for bot @chashma_buyurtmachi_bot id=8717574175 - 'Chashma organic buyurtmachi_bot'
+2026-10-04 14:22:52,284 - INFO - Update id=50374263 is handled. Duration 660 ms by bot id=8717574175
+2026-10-04 14:22:52,704 - INFO - Update id=50374264 is handled. Duration 1079 ms by bot id=8717574175
+2026-10-04 14:23:08,341 - INFO - Update id=50374265 is handled. Duration 943 ms by bot id=8717574175
+2026-10-04 14:23:15,815 - INFO - Update id=50374266 is handled. Duration 407 ms by bot id=8717574175
+2026-10-04 14:23:30,771 - INFO - Update id=50374267 is handled. Duration 818 ms by bot id=8717574175
+2026-10-04 14:23:35,175 - INFO - Update id=50374268 is handled. Duration 305 ms by bot id=8717574175
+2026-10-04 14:23:38,718 - INFO - Update id=50374269 is handled. Duration 357 ms by bot id=8717574175
+2026-10-04 14:23:44,083 - INFO - Update id=50374270 is handled. Duration 710 ms by bot id=8717574175
+2026-10-04 14:23:48,435 - INFO - Update id=50374271 is handled. Duration 353 ms by bot id=8717574175
+2026-10-04 14:25:17,360 - WARNING - Received SIGINT signal
+2026-10-04 14:25:17,361 - INFO - Polling stopped for bot @chashma_buyurtmachi_bot id=8717574175 - 'Chashma organic buyurtmachi_bot'
+2026-10-04 14:25:17,361 - INFO - Polling stopped
