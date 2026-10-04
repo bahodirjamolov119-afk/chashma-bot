@@ -1,11 +1,11 @@
 services:
-  - type: worker
+  - type: web
     name: chashma-bot
-    env: python
+    runtime: python
+    repo: https://github.com/bahodirjamolov119-afk/chashma-bot.git
+    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python run.py
+    startCommand: python main.py
     envVars:
-      - key: BOT_TOKEN
-        value: "8717574175:AAEsM05RU_S2CUEK_556UmGC0TaquybSKWQ"
-      - key: ADMIN_IDS
-        value: "785817511"
+      - key: PYTHON_VERSION
+        value: 3.11.9
